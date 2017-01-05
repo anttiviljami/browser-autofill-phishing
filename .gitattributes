@@ -1,0 +1,4 @@
+*.coffee linguist-language=JavaScript
+*.ts linguist-language=JavaScript
+*.html linguist-language=JavaScript
+*.json linguist-language=JavaScript

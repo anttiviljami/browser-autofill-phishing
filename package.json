@@ -1,0 +1,19 @@
+{
+  "name": "browser-autofill-phishing",
+  "version": "1.0.0",
+  "description": "A simple demo of phishing by abusing the browser autofill feature",
+  "main": "readme.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anttiviljami/browser-autofill-phishing.git"
+  },
+  "author": "Viljami Kuosmanen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anttiviljami/browser-autofill-phishing/issues"
+  },
+  "homepage": "https://github.com/anttiviljami/browser-autofill-phishing#readme"
+}
