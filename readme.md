@@ -19,7 +19,7 @@ It works differently in some other browsers. For example:
   if it isn't visible to you.
 
 * In Firefox, you have to right click an input field and then select an
-  identity to use. So in Firefox user autofills each field.
+  identity to use. So a Firefox user autofills each field.
 
 ## Live demo
 
