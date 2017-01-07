@@ -46,5 +46,14 @@
         <input type="text" id="cc_cvv" name="cc_cvv">
       </p>
     </form>
+    <script type="text/javascript">
+      function onchangehandler(event) {
+        // Print out its value. Could be a web request without users' knowledge.
+        console.log(event.target.name + ": " + event.target.value);
+      }
+
+      // Apply 'input' event to every input element
+      document.querySelectorAll('input').forEach(function(input) { input.addEventListener('input', onchangehandler); } );
+    </script>
   </body>
 </html>
