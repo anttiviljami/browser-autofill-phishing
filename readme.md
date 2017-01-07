@@ -32,3 +32,7 @@ View the page at:
 Please feel free to submit pull requests to this repository for any additional
 information you feel is important!
 
+## References
+
+  - ["Why you should not use autocomplete" on yoast.com](https://yoast.com/autocomplete-security/)
+  
