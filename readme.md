@@ -1,5 +1,6 @@
 # Browser Autofill Phishing 🐟
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/anttiviljami/browser-autofill-phishing/master/LICENSE.md)
+[![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)
 
 This is a simple demonstration of form fields hidden from the user, but will be
 filled anyways when using the browser form autofill feature, which poses a
